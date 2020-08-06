@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello and Welcome! 👋
 
 <!--
 **AnthonyH45/AnthonyH45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am 3rd year at UCR studying Computer Science with Business Applications.
+
+President of Cyber@UCR [https://cyber.cs.ucr.edu/](https://cyber.cs.ucr.edu/)
+
+I am interested in Software Engineering as well as Security. Blue team, Read team, doesnt matter as long as im on some Security team.
+
+Feel free to try the CTF on my website! [https://anthonyh45.github.io/](https://anthonyh45.github.io/)
+
+Feedback welcome for the CTF! 
