@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am 3rd year at UCR studying Computer Science with Business Applications.
+I am a 3rd year at UCR studying Computer Science with Business Applications.
 
 President of Cyber@UCR [https://cyber.cs.ucr.edu/](https://cyber.cs.ucr.edu/)
 
-I am interested in Software Engineering as well as Security. Blue team, Red team, doesnt matter as long as im on some Security team.
+I am interested in Software Engineering as well as Security. Blue team, Red team, doesn't matter as long as I'm on some Security team.
 
 Feel free to try the CTF on my website! [https://anthonyh45.github.io/](https://anthonyh45.github.io/)
 
-Feedback welcome for the CTF! 
+Feedback welcome for the CTF (as well as other repos too)! 
