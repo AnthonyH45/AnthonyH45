@@ -23,4 +23,4 @@ I am interested in Software Engineering as well as Security. Blue team, Red team
 
 Feel free to try the CTF on my website! [https://anthonyh45.github.io/](https://anthonyh45.github.io/)
 
-Feedback welcome for the CTF (as well as other repos too)! 
+Feedback welcome on the CTF (as well as other repos too)! 
