@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a 3rd year at UCR studying Computer Science with Business Applications.
+I am a 4th year at UCR studying Computer Science with Business Applications.
 
 President of Cyber@UCR [https://cyber.cs.ucr.edu/](https://cyber.cs.ucr.edu/)
 
