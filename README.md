@@ -15,12 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a 4th year at UCR studying Computer Science with Business Applications.
+I graduated with a degree in Computer Science with Business Applications from the University of California, Riverside in June 2022.
 
-President of Cyber@UCR [https://cyber.cs.ucr.edu/](https://cyber.cs.ucr.edu/)
+At UCR, I did a few things:
+- Former President of Cyber@UCR for 2 years [https://cyber.cs.ucr.edu/](https://cyber.cs.ucr.edu/)
+- Linux Admin for 2 years for UCR's WRCCDC team
+- Captain for 2 years for UCR's WRCCDC Team
+- Supplemental Instructor for CS10ABC classes for 2 years
+- Campus Tour Guide for the Marlan and Rosemary Bourns College of Engineering for 4 years
 
-I am interested in Software Engineering as well as Security. Blue team, Red team, doesn't matter as long as I'm on some Security team.
+I currently work as a Software Dev Engineer but am also interested in Security.
 
-Feel free to try the CTF on my website! [https://anthonyh45.github.io/](https://anthonyh45.github.io/)
+Feel free to try the CTF on my website! [https://anthony.hallak.net](https://anthony.hallak.net)
 
 Feedback welcome on the CTF (as well as other repos too)! 
